@@ -1,0 +1,5 @@
+.chrome.my-button{--width: 5rem; --height: 2.5rem;}  /* Sets the size for elements with the class '.my-button'*/
+.my-button {
+    width: var(--width) !important;
+    height: var(--height) !important;
+}

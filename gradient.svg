@@ -1,0 +1,8 @@
+<svg width="0" height="0" style="position:absolute">
+    <defs>
+        <linearGradient id="buttonContentGradient" x1="0%" y1="0%" x2="0%" y2="100%">
+            <stop offset="0%" stop-color="rgb(255, 255, 255)"/>
+            <stop offset="100%" stop-color="rgb(200, 240, 255)"/>
+        </linearGradient>
+    </defs>
+</svg>

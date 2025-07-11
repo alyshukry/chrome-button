@@ -1,7 +1,7 @@
 
 # ✨ Chrome Button Component
 
-A chrome-style UI button with metallic gradients, designed by [@pxdx.studio](https://www.instagram.com/p/DHCNFL8Aciw/?igsh=MTdmd3VubXRtbnAzZg==) for use in your apps and projects.
+A chrome-style UI button with metallic gradients, designed by [@pxdx.studio](https://www.instagram.com/p/DHCNFL8Aciw/?igsh=MTdmd3VubXRtbnAzZg==) (and slightly edited) for use in your apps and projects.
 
 ## 💡 How to Use
 
